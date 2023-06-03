@@ -1,6 +1,6 @@
 package OOPSConcepts.Interface;
 
-public class Class2 implements Interface04 {
+public class Class02 implements Interface04 {
     @Override
     public void test1() {
 

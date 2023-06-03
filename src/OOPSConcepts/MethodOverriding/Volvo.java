@@ -1,7 +1,7 @@
 package OOPSConcepts.MethodOverriding;
 
-public class Volvo extends Vehicle{
-   void run(){
+public class Volvo extends Vehicle {
+    void run() {
         System.out.println("Volvo is running");
     }
 

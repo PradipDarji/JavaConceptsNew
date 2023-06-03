@@ -1,6 +1,6 @@
 package JavaInterviewPrograms;
 
-public class ArmstrongNumber {
+public class  ArmstrongNumber {
 
     public static void isArmstrongNumber(int num) {
         System.out.println("Entered number is: " + num);

@@ -1,6 +1,6 @@
 package JavaInterviewPrograms;
 
-public class DuplicateElementFromArrayList {
+public class  DuplicateElementFromArrayList {
     public static void main(String[] args) {
         int age[] = {10,15,25,35,15,36,45,15};
         for(int i = 0; i<age.length;i++){

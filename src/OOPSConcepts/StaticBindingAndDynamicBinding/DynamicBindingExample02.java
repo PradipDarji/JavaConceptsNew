@@ -1,6 +1,6 @@
 package OOPSConcepts.StaticBindingAndDynamicBinding;
 
-public class StaticBindingExample02 extends StaticBindingExample01 {
+public class DynamicBindingExample02 extends DynamicBindingExample01 {
 
     private void run(){
         System.out.println("StaticBindingExample02 All vehicles are running.......");
@@ -15,7 +15,7 @@ public class StaticBindingExample02 extends StaticBindingExample01 {
     }*/
 
     public static void main(String[] args) {
-        StaticBindingExample02 sb02 = new StaticBindingExample02();
+        DynamicBindingExample02 sb02 = new DynamicBindingExample02();
         sb02.test();
         sb02.run();
         sum();

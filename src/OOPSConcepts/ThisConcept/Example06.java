@@ -5,7 +5,7 @@ public class Example06 {
     Example07 ex07;
 
     Example06(Example07 ex07){
-       this.ex07 = ex07;
+        this.ex07 = ex07;
     }
 
 }
